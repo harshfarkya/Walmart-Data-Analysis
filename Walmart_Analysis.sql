@@ -23,7 +23,7 @@ SELECT
 FROM walmart
 GROUP BY payment_method;
 
--- Project Question #2: Identify the highest-rated category in each branch
+-- Identify the highest-rated category in each branch
 -- Display the branch, category, and avg rating
 
 WITH ranked AS (
