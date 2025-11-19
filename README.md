@@ -7,10 +7,9 @@ The project uses **Python for data cleaning** and **MySQL for analytical queries
 ---
 
 ## 🛠 Tech Stack
-- Python (Pandas, NumPy, SQLAlchemy)
+- Python (Pandas)
 - MySQL
 - Jupyter Notebook
-- PowerPoint / Markdown for reporting
 
 ---
 
