@@ -68,7 +68,7 @@ Ran 9 key analysis queries:
 ---
 
 ## 📎 Files in This Repository
-- `data_cleaning.ipynb` – Python cleaning + feature engineering  
+- `data_cleaning.ipynb` – Python cleaning
 - `walmart_analysis.sql` – All SQL queries   
 - `README.md` – Project documentation  
 
